@@ -1,5 +1,6 @@
 <img align="left" src="./vv5.png" width="35%"/>
 
+<div align="right">
 <h1>Travion Research Project</h1>
 
 <p>
@@ -37,3 +38,4 @@
 <p><strong>Languages:</strong> C++, JavaScript, C, Python</p>
 
 <p><strong>Fav_Subjects:</strong> Computer Networks, PCB Design</p>
+</div>
