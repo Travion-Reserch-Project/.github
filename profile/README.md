@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex;">
 
   <!-- LEFT SIDE IMAGE -->
   <div style="flex: 1;">
