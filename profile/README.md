@@ -2,7 +2,7 @@
 
 <h2> About 私自身 </h2>
 
-<img align="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
+<img align="left" src="./vv5.png" width="35%"/>
 
 ```cpp
 Profile Version: 3.2
@@ -44,9 +44,4 @@ Fav_Subject: Computer Networks, PCB Design
 </div>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-[nVIDIA]: https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green
-[React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
-[Raspberry Pi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
-[Zigbee]: https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white
+
