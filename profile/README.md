@@ -25,14 +25,5 @@ Languages: C++, JS, C, Python
 Fav_Subject: Computer Networks, PCB Design
 
 
-<div align="center">
 
-<p>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=316av6bfyf7wqtc3wnuyswkucvr4&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=8305eb&bar_color_cover=true)"/>
-  </a>
-</p>
-</div>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
