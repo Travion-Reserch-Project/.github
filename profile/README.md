@@ -1,10 +1,6 @@
-
-
-<h2> About 私自身 </h2>
-
 <img align="left" src="./vv5.png" width="35%"/>
 
-```cpp
+
 Profile Version: 3.2
 --------------------
 Level: 十五
