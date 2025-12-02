@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- LEFT SIDE IMAGE -->
-  <div style="flex: 1; max-width: 35%;">
-    <img src="./vv5.png" style="width: 100%; border-radius: 10px;" />
+  <div style="flex: 1;">
+    <img src="./vv5.png" style="width: 50%; border-radius: 10px;" />
   </div>
 
   <!-- RIGHT SIDE CONTENT -->
