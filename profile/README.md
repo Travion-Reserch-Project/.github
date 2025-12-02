@@ -1,4 +1,4 @@
-<img align="left" src="./vv8.png" width="35%"/>
+<img align="left" src="./vv8.jpeg" width="35%"/>
 
 
 Profile Version: 3.2
