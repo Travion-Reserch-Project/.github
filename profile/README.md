@@ -2,9 +2,7 @@
 
 
 Profile Version: 3.2
---------------------
-Level: 十五
------------
+
 Username: Debasish Ray (デバシッシュ・レイ)
 WhoamI: Graduated Computer Science Student 
         (コンピュータサイエンスの学生)
