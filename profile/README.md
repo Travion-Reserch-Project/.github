@@ -1,12 +1,13 @@
-<div style="display: flex;">
+<div style="display:flex;align-items:flex-start;gap:20px;flex-wrap:wrap;">
 
-  <img src="./vv5.png" style="width: 10%; border-radius: 10px;" />
+  <!-- LEFT: image -->
+  <div style="flex:0 0 35%;max-width:35%;">
+    <img src="./vv5.png" alt="profile" style="width:100%;border-radius:8px;"/>
+  </div>
 
-
-  <!-- RIGHT SIDE CONTENT -->
-  <div>
-
-  <h1>Travion Research Project</h1>
+  <!-- RIGHT: content -->
+  <div style="flex:1 1 60%;min-width:300px;">
+    <h1>Travion Research Project</h1>
 
     <p>
       Travion is an AI-driven Smart Tourism Companion designed to provide tourists with
@@ -19,8 +20,8 @@
     <h3>Project Tech Stack</h3>
     <ul>
       <li><strong>Frontend:</strong> React, TailwindCSS, React Native</li>
-      <li><strong>Backend:</strong> Node.js, Express.js, Python (Flask/FastAPI)</li>
-      <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy</li>
+      <li><strong>Backend:</strong> Node.js, Express.js, Python (Flask / FastAPI)</li>
+      <li><strong>Machine Learning:</strong> scikit-learn, TensorFlow / PyTorch, Pandas, NumPy</li>
       <li><strong>NLP:</strong> spaCy, HuggingFace Transformers, Duckling</li>
       <li><strong>Routing & Maps:</strong> Google Maps API, OpenStreetMap</li>
       <li><strong>Database:</strong> MongoDB</li>
@@ -28,17 +29,16 @@
       <li><strong>Cloud:</strong> AWS (EC2, S3, Lambda)</li>
     </ul>
 
-    <h3>System Responsibilities & Contributions</h3>
+    <h3>Responsibilities & Contributions</h3>
     <ul>
-      <li>Supporting ML pipeline architecture for ETA, fare, and availability prediction</li>
-      <li>Backend API integration for the Smart Transport Recommendation Engine</li>
-      <li>Assisting in DevOps workflows (Dockerization, environment setup)</li>
-      <li>Contributing to multi-modal data ingestion and preprocessing logic</li>
-      <li>Improving chatbot/NLP query handling pipeline</li>
+      <li>ML pipeline architecture for ETA, fare & availability prediction</li>
+      <li>Backend API integration for the recommendation engine</li>
+      <li>Dockerization and environment setup</li>
+      <li>Multi-modal data ingestion & preprocessing</li>
+      <li>Chatbot / NLP query handling improvements</li>
     </ul>
 
     <p><strong>Languages:</strong> C++, JavaScript, C, Python</p>
-    <p><strong>Fav_Subjects:</strong> Computer Networks, PCB Design</p>
-
+    <p><strong>Fav Subjects:</strong> Computer Networks, PCB Design</p>
   </div>
 </div>
