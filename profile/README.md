@@ -2,26 +2,37 @@
 
 <h1>Travion Research Project</h1>
 
+<p>
+  Travion is an AI-driven Smart Tourism Companion designed to provide tourists with
+  disruption-aware, multi-modal transport recommendations in Sri Lanka. The system integrates
+  Natural Language Processing (NLP), Machine Learning models, multi-modal routing, anomaly
+  detection, and real-time data pipelines to deliver reliable travel suggestions such as
+  availability, ETA, fare ranges, and route reliability.
+</p>
 
-
-<p><strong>OS:</strong> Windows 11 Pro [64-bit], Ubuntu 24.04 LTS, Debian OS</p>
-<p><strong>Shell:</strong> PowerShell v5.1.22</p>
-<p><strong>Terminal:</strong> Visual Studio Code</p>
-
-<p><strong>Location:</strong> Chennai</p>
-<p><strong>Education:</strong> SRM Institute of Science & Technology, KTR</p>
-
-<p><strong>Interests:</strong></p>
+<h3>Project Tech Stack</h3>
 <ul>
-  <li>IoT Development (Arduino, Raspberry Pi)</li>
-  <li>Web Development (Back-End Engineering)</li>
-  <li>ML/DL (Time-Series Analysis, Neural Networks)</li>
-  <li>DevOps (Infrastructure & Deployments)</li>
+  <li><strong>Frontend:</strong> React, TailwindCSS, React Native</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, Python (Flask/FastAPI)</li>
+  <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow/PyTorch, Pandas, NumPy</li>
+  <li><strong>NLP:</strong> spaCy, HuggingFace Transformers, Duckling</li>
+  <li><strong>Routing & Maps:</strong> Google Maps API, OpenStreetMap</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>DevOps:</strong> Docker, Kubernetes, GitHub Actions (CI/CD)</li>
+  <li><strong>Cloud:</strong> AWS (EC2, S3, Lambda)</li>
 </ul>
 
-<p><strong>Hobbies:</strong> Cycling, Programming, Cooking</p>
+<h3>System Responsibilities & Contributions</h3>
+<ul>
+  <li>Supporting ML pipeline architecture for ETA, fare, and availability prediction</li>
+  <li>Backend API integration for the Smart Transport Recommendation Engine</li>
+  <li>Assisting in DevOps workflows (Dockerization, environment setup)</li>
+  <li>Contributing to multi-modal data ingestion and preprocessing logic</li>
+  <li>Improving chatbot/NLP query handling pipeline</li>
+</ul>
 
-<p><strong>Learning:</strong> Docker, Kubernetes, AWS, React, TailwindCSS</p>
+
+
 
 <p><strong>Languages:</strong> C++, JavaScript, C, Python</p>
 
