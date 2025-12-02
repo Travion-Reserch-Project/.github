@@ -1,11 +1,8 @@
 <img align="left" src="./vv5.png" width="35%"/>
 
-<h3>Profile Version: 3.3</h3>
+<h1>Travion Research Project</h1>
 
-<p><strong>Username:</strong> Debasish Ray (デバシッシュ・レイ)</p>
 
-<p><strong>WhoamI:</strong> Graduated Computer Science Student<br>
-&nbsp;&nbsp;&nbsp;&nbsp;(コンピュータサイエンスの学生)</p>
 
 <p><strong>OS:</strong> Windows 11 Pro [64-bit], Ubuntu 24.04 LTS, Debian OS</p>
 <p><strong>Shell:</strong> PowerShell v5.1.22</p>
