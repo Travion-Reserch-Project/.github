@@ -1,6 +1,6 @@
 <img align="left" src="./vv5.png" width="35%" marginTop="30px"/>
 
-<div>
+<div left="40px">
 <h1>Travion Research Project</h1>
 
 <p>
