@@ -2,7 +2,7 @@
 
   <!-- LEFT SIDE IMAGE -->
   <div style="flex: 1;">
-    <img src="./vv5.png" style="width: 50%; border-radius: 10px;" />
+    <img src="./vv5.png" style="width: 10%; border-radius: 10px;" />
   </div>
 
   <!-- RIGHT SIDE CONTENT -->
