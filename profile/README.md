@@ -1,7 +1,7 @@
 <img align="left" src="./vv5.png" width="35%" marginTop="30px"/>
 
-<div left="40px">
-<h1>Travion Research Project</h1>
+<div>
+Travion Research Project
 
 <p>
   Travion is an AI-driven Smart Tourism Companion designed to provide tourists with
