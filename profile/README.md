@@ -26,9 +26,6 @@ Learning: Docker, Kubernetes, AWS, React, TailwindCSS
 Languages: C++, JS, C, Python
 Fav_Subject: Computer Networks, PCB Design
 
--------------
-"自分が立っている場所が頂点だと決めたら、私は決して動かない。"
-```
 
 <div align="center">
 
