@@ -1,4 +1,4 @@
-<img align="left" src="./vv5.png" width="35%"/>
+<img align="left" src="./vv5.png" width="35%" marginTop="30px"/>
 
 <div>
 <h1>Travion Research Project</h1>
@@ -20,7 +20,6 @@
   <li><strong>Routing & Maps:</strong> Google Maps API, OpenStreetMap</li>
   <li><strong>Database:</strong> MongoDB</li>
   <li><strong>DevOps:</strong> Docker, Kubernetes, GitHub Actions (CI/CD)</li>
-  <li><strong>Cloud:</strong> AWS (EC2, S3, Lambda)</li>
 </ul>
 
 <h3>System Responsibilities & Contributions</h3>
@@ -32,6 +31,4 @@
   <li>Improving chatbot/NLP query handling pipeline</li>
 </ul>
 
-<p><strong>Languages:</strong> C++, JavaScript, C, Python</p>
 
-<p><strong>Fav_Subjects:</strong> Computer Networks, PCB Design</p>
