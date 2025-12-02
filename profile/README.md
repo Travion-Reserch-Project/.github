@@ -1,14 +1,12 @@
 <div style="display: flex;">
 
-  <!-- LEFT SIDE IMAGE -->
-  <div style="flex: 1;">
-    <img src="./vv5.png" style="width: 10%; border-radius: 10px;" />
-  </div>
+  <img src="./vv5.png" style="width: 10%; border-radius: 10px;" />
+
 
   <!-- RIGHT SIDE CONTENT -->
-  <div style="flex: 2;">
+  <div>
 
-    <h1>Travion Research Project</h1>
+  <h1>Travion Research Project</h1>
 
     <p>
       Travion is an AI-driven Smart Tourism Companion designed to provide tourists with
