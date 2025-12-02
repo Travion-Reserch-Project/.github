@@ -1,29 +1,31 @@
 <img align="left" src="./vv5.png" width="35%"/>
 
+<h3>Profile Version: 3.3</h3>
 
-Profile Version: 3.2
+<p><strong>Username:</strong> Debasish Ray (デバシッシュ・レイ)</p>
 
-Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: Graduated Computer Science Student 
-        (コンピュータサイエンスの学生)
-OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
-Shell: PowerShell v5.1.22
-Terminal: Visual Studio Code
+<p><strong>WhoamI:</strong> Graduated Computer Science Student<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(コンピュータサイエンスの学生)</p>
 
-Location: Chennai
-Education: SRM Institute of Science & Technology, KTR
+<p><strong>OS:</strong> Windows 11 Pro [64-bit], Ubuntu 24.04 LTS, Debian OS</p>
+<p><strong>Shell:</strong> PowerShell v5.1.22</p>
+<p><strong>Terminal:</strong> Visual Studio Code</p>
 
-Interests:
-  - IoT Development (Arduino, Raspberry Pi)
-  - Web Development (Back-End Development)
-  - ML/DL (Time-Series, Neural Networks)
-  - DevOps (Infrastructure-Deployments)
+<p><strong>Location:</strong> Chennai</p>
+<p><strong>Education:</strong> SRM Institute of Science & Technology, KTR</p>
 
-Hobbies: Cycling, Programming, Cooking
-Learning: Docker, Kubernetes, AWS, React, TailwindCSS
-Languages: C++, JS, C, Python
-Fav_Subject: Computer Networks, PCB Design
+<p><strong>Interests:</strong></p>
+<ul>
+  <li>IoT Development (Arduino, Raspberry Pi)</li>
+  <li>Web Development (Back-End Engineering)</li>
+  <li>ML/DL (Time-Series Analysis, Neural Networks)</li>
+  <li>DevOps (Infrastructure & Deployments)</li>
+</ul>
 
+<p><strong>Hobbies:</strong> Cycling, Programming, Cooking</p>
 
+<p><strong>Learning:</strong> Docker, Kubernetes, AWS, React, TailwindCSS</p>
 
+<p><strong>Languages:</strong> C++, JavaScript, C, Python</p>
 
+<p><strong>Fav_Subjects:</strong> Computer Networks, PCB Design</p>
